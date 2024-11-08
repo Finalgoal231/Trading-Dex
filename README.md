@@ -1,9 +1,13 @@
 ### Clone
 
 ```
-   git clone https://bitbucket.org/mat-org/dex-platform.git
+   git clone https://github.com/Finalgoal231/Trading-Dex.git
 ```
+### Change directory
 
+```
+   cd Trading-Dex
+```
 ### Install dependencies
 
 ```
